@@ -1,8 +1,10 @@
-# WikimediaStreamProcessor
+![pipeline drawio](https://github.com/user-attachments/assets/07353284-f6be-4ab0-8a54-c1deaa187f79)
+
+ WikimediaStreamProcessor
 A real-time data processing application for Wikimedia change events using Apache Kafka and Java. This project includes components for producing and consuming Kafka streams and is containerized using Docker.
 
 
-# Wikimedia Stream Processor
+#Wikimedia Stream Processor
 
 ## Overview
 
